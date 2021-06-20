@@ -1,0 +1,10 @@
+{
+  "name": "Dark Sky Weather Card",
+  "content_in_root": true,
+  "filename": "dark-sky-weather-card.js",
+  "render_readme": true,
+  "country": ["RU", "EN", "FR", "DE", "NL", "HE", "DA"],
+  "domains": ["sensor"],
+  "homeassistant": "2021.5.0",
+  "version": "0.10.4"
+}
