@@ -1,3 +1,4 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 # Dark Sky Weather Card для Home Assistant
 
 ![screen_from_ha](https://user-images.githubusercontent.com/39500249/122648984-533ddd80-d134-11eb-8aff-48fa24265ee2.png)
