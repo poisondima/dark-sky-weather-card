@@ -45,7 +45,9 @@
 Перезагружаем HA и проверяем, что появились сенсоры `sensor.dark_sky_*`
 
 Устанавливаем через HACS карточку:
-> HACS > Пользовательский интерфейс > 3 точки (правый верхний угол) > Пользовательские репозитории > URL: `poisondima/dark-sky-weather-card`, Категория: Lovelace > Добавить > Выбираем в списке > Dark Sky Weather Card > Жмем Установить
+> HACS > Пользовательский интерфейс > 3 точки (правый верхний угол) > Пользовательские репозитории > URL: `poisondima/dark-sky-weather-card`, Категория: Lovelace > Добавить > Выбираем в списке Dark Sky Weather Card > Жмем Установить
+
+Папки `animated` и `static` копируем по пути: `config/www/community/dark-sky-weather-card/`
 
 Добавляем в ui-lovelace:
 ```yaml
